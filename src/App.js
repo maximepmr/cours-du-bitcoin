@@ -67,6 +67,7 @@ class App extends Component {
           <div className="bitcoinprice">
               {this.state.bitCoinPrice} €
           </div>
+            {/*charlotte je t'aime*/}
           <div className="maxime">
               maxime@pomier.fr
           </div>
