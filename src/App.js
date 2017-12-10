@@ -48,14 +48,13 @@ class App extends Component {
         <div className="bitcoinpricemobile">
             {this.state.bitCoinPrice} €
         </div>
+        <div className="textemobile">
+            Pas la peine de recharger la page, les données sont mises à jour automatiquement toutes les secondes.
+        </div>
         <div className="maxime">
             maxime@pomier.fr
         </div>
-            <div className="texte">
-                Pas la peine de recharger la page, les données sont mises à jour automatiquement toutes les secondes.
-            </div>
       </div>
-
       );
     } else {
       return (
