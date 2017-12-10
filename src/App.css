@@ -44,3 +44,11 @@
   width: 80%;
   height: 5%;
 }
+
+.texte {
+  font-style: italic;
+  font-weight: bold;
+  color: dimgray;
+  text-align: center;
+
+}
