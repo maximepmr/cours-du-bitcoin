@@ -34,7 +34,7 @@
 
 .bitcoinpricemobile {
   font-size: 250%;
-  height: 150px;
+  height: 100px;
 }
 .maxime {
   position: fixed;
@@ -46,6 +46,14 @@
 }
 
 .texte {
+  font-style: italic;
+  font-weight: bold;
+  color: dimgray;
+  text-align: center;
+
+}
+
+.textemobile {
   font-style: italic;
   font-weight: bold;
   color: dimgray;
