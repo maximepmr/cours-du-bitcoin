@@ -42,7 +42,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Bienvenue sur le cours du Bitcoin</h1>
         </header>
-        <h2>Voici actuellement le prix du bitcoin :</h2>
+        <h2>Voici actuellement le prix d'un bitcoin :</h2>
         <br />
         <br />
         <div className="bitcoinpricemobile">
